@@ -6,7 +6,7 @@ Teaching resource for GDSO pre-workshop 2019
 1. (Tuesday) - [Jupyter notebooks](https://github.com/charlesfrye/DSW2018-tutorials/tree/master/JupyterNotebookForGreatGood) (Instructor: Charles)
 1. (Wednesday) - [PANDAS](https://github.com/wetchler/pandas) (Instructor: Everett)
 1. (Thursday) - [Data visualization](https://github.com/lchen23/GDSO_workshop) (Instructor: Liang)
-1. ** (Friday) - [Stats and machine learning (this tutorial)](https://github.com/wetchler/ML) (Instructor: Everett) **
+1. ** (Friday) - [Machine Learning (this tutorial)](https://github.com/wetchler/ML) (Instructor: Everett) **
 
 ### Machine Learning is a BIG topic
 
