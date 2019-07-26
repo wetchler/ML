@@ -14,7 +14,7 @@ We're not going to take you from zero to full-speed here today. We'll orient you
 
 ### **If you learn nothing else today...
 
-...learn to hang out on the scikit-learn website -- they have LOTS of good tutorials [here](https://scikit-learn.org/stable/documentation.html) (start with their [Quick Start](https://scikit-learn.org/stable/tutorial/basic/tutorial.html))
+...learn to [hang out on the scikit-learn website](https://scikit-learn.org/stable/documentation.html) -- they have LOTS of good tutorials (start with their [Quick Start](https://scikit-learn.org/stable/tutorial/basic/tutorial.html))
 
 All that said...
 
