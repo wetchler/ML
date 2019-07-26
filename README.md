@@ -20,9 +20,21 @@ All that said...
 
 ### Overview of today
 
+1. What is Machine Learning
 1. Review the "data science" pipeline
 1. Build, interpret, and score a basic linear regression model
 1. Show how to use the same process for logistic regression and random forests.
+
+### Machine Learning
+
+(Very) roughly, **machine learning = prediction**. If you write a computer program that uses things you know to predict things you don't know, you're generally doing machine learning. For example:
+* Someone is applying for a loan at a bank. You know their credit score, age, and income (known things). You want to know if they will repay their loan (unknown thing).
+* You have a patient's medical history and recent test results (known things). You want to know if they will develop cancer later in life (unknown thing).
+* You are considering implementing a new math program at a school. You have the standardized test results from a bunch of students at a bunch of schools using a bunch of different programs (known things). You want to know if instituting this program will raise standardized test scores in this school (unknown thing).
+
+Phrases you might hear in the machine learning (ML) world:
+- (Names of modelling algorithms): random forest, support vector machine, neural network, convolutional neural network, recurrent neural network, etc etc forever
+- (Names of techniques): train-test split, cross-validation, k-fold, imputation, one-hot encoding, feature engineering, feature selection, hyperparameter, gradient descent, confusion matrix, ROC curve, etc etc forever
 
 ### The data science pipeline
 
@@ -45,6 +57,8 @@ As defined by me.
 1. Modelling - `sklearn` etc - predict the main Thing of interest.
    - This is often the _least_ creative part of the process.
    - We'll learn about this in our tutorial today.
+1. Presenting - `powerpoint` etc - translate your findings to your team, client, etc
+   - We won't cover this here, but it's a highly overlooked step. Communicating at the right level (showing just enough technical detail to get the point across) is hard to do well.
 
 ### Lies, damned lies, and statistics
 
@@ -52,4 +66,4 @@ Machine learning, like statistical models, can be (and often are) used improperl
 
 ### Further links
 * I meantioned [scikit-learn tutorials](https://scikit-learn.org/stable/documentation.html) already.
-* [Kaggle](www.kaggle.com) is a good website to hone your machine learning / data science chops. You can join a competition OR simply read the notebooks that others write. READING OTHERS' CODE IS ONE OF THE BEST WAYS TO LEARN
+* [Kaggle](www.kaggle.com) is a good website to hone your machine learning / data science chops. On the surface, they host competitions, but you can also find good datasets, read others code, and generally just learn and practice. READING OTHERS' CODE IS ONE OF THE BEST WAYS TO LEARN
