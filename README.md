@@ -1,12 +1,17 @@
 # ML
 Teaching resource for GDSO pre-workshop 2019
 
+https://raw.githubusercontent.com/wetchler/ML/master/data/merged.csv
+
 ### Other lessons this week
 1. (Monday) - [GitHub and git](https://github.com/geoffbacon/collaboration) (Instructor: Geoff)
 1. (Tuesday) - [Jupyter notebooks](https://github.com/charlesfrye/DSW2018-tutorials/tree/master/JupyterNotebookForGreatGood) (Instructor: Charles)
 1. (Wednesday) - [PANDAS](https://github.com/wetchler/pandas) (Instructor: Everett)
 1. (Thursday) - [Data visualization](https://github.com/lchen23/GDSO_workshop) (Instructor: Liang)
 1. ** (Friday) - [Machine Learning (this tutorial)](https://github.com/wetchler/ML) (Instructor: Everett) **
+
+### Use CoLab (not Binder) for today if you don't have python set up locally
+[USE THIS LINK](http://colab.research.google.com/github/wetchler/ML/blob/master/workbook.ipynb)
 
 ### Machine Learning is a BIG topic
 
