@@ -66,4 +66,4 @@ Machine learning, like statistical models, can be (and often are) used improperl
 
 ### Further links
 * I meantioned [scikit-learn tutorials](https://scikit-learn.org/stable/documentation.html) already.
-* [Kaggle](www.kaggle.com) is a good website to hone your machine learning / data science chops. On the surface, they host competitions, but you can also find good datasets, read others code, and generally just learn and practice. READING OTHERS' CODE IS ONE OF THE BEST WAYS TO LEARN
+* [Kaggle](https://www.kaggle.com) is a good website to hone your machine learning / data science chops. On the surface, they host competitions, but you can also find good datasets, read others code, and generally just learn and practice. READING OTHERS' CODE IS ONE OF THE BEST WAYS TO LEARN
