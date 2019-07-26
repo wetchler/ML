@@ -23,7 +23,8 @@ All that said...
 1. What is Machine Learning
 1. Review the "data science" pipeline
 1. Build, interpret, and score a basic linear regression model
-1. Show how to use the same process for logistic regression and random forests.
+1. Understand model evaluation and cross-validation
+1. Show how easy it is to extend to random forests or any other algorithm
 
 ### Machine Learning
 
