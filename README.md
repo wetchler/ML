@@ -62,7 +62,9 @@ As defined by me.
 
 ### Lies, damned lies, and statistics
 
-Machine learning, like statistical models, can be (and often are) used improperly to generate bogus results. Often by the kindest, best-intended people who were just trying to do honest science. So, be careful. All models have assumptions, all code has bugs, so be sure to 1) work in teams (to check each other) and 2) work with an experienced person who can shine a light on things you didn't know that you didn't know.
+Machine learning, like statistical models, can be (and often are) used improperly to generate bogus results. Often by the kindest, best-intended people who were just trying to do honest science. So, be careful. All models have assumptions, all code has bugs, so be sure to
+1. work in teams (to check each other) and
+2. work with an experienced person who can shine a light on things you didn't know that you didn't know.
 
 ### Further links
 * I meantioned [scikit-learn tutorials](https://scikit-learn.org/stable/documentation.html) already.
