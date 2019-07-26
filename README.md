@@ -8,6 +8,9 @@ Teaching resource for GDSO pre-workshop 2019
 1. (Thursday) - [Data visualization](https://github.com/lchen23/GDSO_workshop) (Instructor: Liang)
 1. ** (Friday) - [Machine Learning (this tutorial)](https://github.com/wetchler/ML) (Instructor: Everett) **
 
+### Use CoLab (not Binder) for today if you don't have python set up locally
+[USE THIS LINK](http://colab.research.google.com/github/wetchler/ML/blob/master/workbook.ipynb)
+
 ### Machine Learning is a BIG topic
 
 We're not going to take you from zero to full-speed here today. We'll orient you to some of the basics, and show you how to do already-familiar things (e.g. linear regression) in Python.
