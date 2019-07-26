@@ -1,7 +1,7 @@
 # ML
 Teaching resource for GDSO pre-workshop 2019
 
-https://github.com/wetchler/ML/blob/master/data/merged.csv
+https://raw.githubusercontent.com/wetchler/ML/master/README.md
 
 ### Other lessons this week
 1. (Monday) - [GitHub and git](https://github.com/geoffbacon/collaboration) (Instructor: Geoff)
